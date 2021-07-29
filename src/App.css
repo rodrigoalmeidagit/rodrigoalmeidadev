@@ -23,7 +23,8 @@
 }
 
 .attribution:hover {
-  font-style: italic;
+  color: black;
+  text-decoration: underline;
 }
 
 .title {
