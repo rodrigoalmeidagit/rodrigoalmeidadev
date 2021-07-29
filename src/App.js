@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './underconstruction.png';
 import './App.css';
 
 function App() {
@@ -6,9 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <cite><a href="https://storyset.com/online" className="attribution">Illustrations by Storyset</a></cite>
+        <h1 className="title">
           Página em construção!
-        </p>
+        </h1>
       </header>
     </div>
   );
