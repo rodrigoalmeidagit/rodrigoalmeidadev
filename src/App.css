@@ -22,8 +22,7 @@
   padding-left: 170px;
 }
 
-.attribution:hover {
-  color: black;
+.attribution:hover {  
   text-decoration: underline;
 }
 
