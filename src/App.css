@@ -37,7 +37,7 @@
   font-weight: bold;
 }
 
-.attribution:hover {  
+.attribution:hover {
   text-decoration: underline;
 }
 
@@ -77,6 +77,11 @@
     font-size: 1.5rem;
   }
 
+  .attribution {
+    font-size: 0.5rem;
+    padding-left: 100px;
+  }
+
   .App-logo {
     height: 65vmin;
   }
@@ -85,6 +90,11 @@
 @media screen and (max-width: 375px) {
   .App-header h1 {
     font-size: 1rem;
+  }
+
+  .attribution {
+    font-size: 0.5rem;
+    padding-left: 70px;
   }
 
   .App-logo {
@@ -97,7 +107,12 @@
     font-size: 1rem;
   }
 
+  .attribution {
+    font-size: 0.4rem;
+    padding-left: 50px;
+  }
+
   .App-logo {
-    height: 50vmin;
+    height: 60vmin;
   }
 }
