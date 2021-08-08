@@ -5,8 +5,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <cite><a href="https://storyset.com/online" className="attribution">Illustrations by Storyset</a></cite>
+        <a href="https://storyset.com/online">
+          <img
+            src={logo}
+            className="App-logo"
+            alt="Illustrations by Storyset"
+            title="Illustrations by Storyset"
+          />
+        </a>
         <h1 className="title">
           Página em construção!
         </h1>
