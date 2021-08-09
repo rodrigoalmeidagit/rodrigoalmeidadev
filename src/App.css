@@ -10,7 +10,6 @@
 
 .App-logo {
   height: 60vmin;
-  /* pointer-events: none; */
   transform: translateY(0px);
   animation: float 5s ease-in-out infinite;
 }
